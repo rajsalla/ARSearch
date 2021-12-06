@@ -1,0 +1,2123 @@
+{
+  "org.mockito.invocation.InvocationOnMock.getMethod": {
+    "0": [
+      1,
+      9,
+      0
+    ]
+  },
+  "com.google.common.base.Objects.hashCode": {
+    "0": [
+      1,
+      2,
+      3
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ],
+    "2": [
+      1,
+      2,
+      3
+    ]
+  },
+  "org.mockito.AdditionalAnswers.returnsElementsOf": {
+    "0": [
+      1,
+      2,
+      3
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ]
+  },
+  "org.mockito.Mockito.doAnswer": {
+    "0": [
+      4,
+      5,
+      8
+    ],
+    "1": [
+      4,
+      5,
+      8
+    ],
+    "2": [
+      4,
+      5,
+      8
+    ],
+    "3": [
+      0,
+      9,
+      2
+    ],
+    "4": [
+      4,
+      5,
+      8
+    ]
+  },
+  "org.mockito.stubbing.Stubber.when": {},
+  "com.google.common.collect.Maps.uniqueIndex": {
+    "0": [
+      4,
+      6,
+      9
+    ]
+  },
+  "com.google.common.collect.Maps.transformValues": {
+    "0": [
+      8,
+      0,
+      1
+    ],
+    "1": [
+      2,
+      0,
+      1
+    ],
+    "2": [
+      8,
+      2,
+      0
+    ]
+  },
+  "com.google.common.collect.Sets.difference": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.collect.Iterables.cycle": {
+    "0": [
+      4,
+      6,
+      7
+    ],
+    "1": [
+      4,
+      6,
+      7
+    ]
+  },
+  "org.mockito.Mockito.when": {
+    "0": [
+      8,
+      0,
+      1
+    ],
+    "1": [
+      0,
+      7,
+      8
+    ],
+    "2": [
+      2,
+      8,
+      5
+    ],
+    "3": [
+      8,
+      2,
+      1
+    ],
+    "4": [
+      9,
+      0,
+      3
+    ],
+    "5": [
+      0,
+      8,
+      2
+    ],
+    "6": [
+      7,
+      0,
+      9
+    ],
+    "7": [
+      8,
+      0,
+      9
+    ],
+    "8": [
+      2,
+      1,
+      3
+    ],
+    "9": [
+      5,
+      0,
+      7
+    ],
+    "10": [
+      2,
+      8,
+      7
+    ],
+    "11": [
+      2,
+      0,
+      1
+    ],
+    "12": [
+      2,
+      5,
+      7
+    ],
+    "13": [
+      7,
+      0,
+      5
+    ],
+    "14": [
+      3,
+      7,
+      0
+    ],
+    "15": [
+      7,
+      8,
+      0
+    ],
+    "16": [
+      6,
+      0,
+      2
+    ],
+    "17": [
+      0,
+      9,
+      2
+    ],
+    "18": [
+      2,
+      8,
+      1
+    ],
+    "19": [
+      7,
+      8,
+      3
+    ],
+    "20": [
+      2,
+      0,
+      3
+    ],
+    "21": [
+      8,
+      7,
+      9
+    ],
+    "22": [
+      0,
+      5,
+      1
+    ],
+    "23": [
+      7,
+      8,
+      0
+    ],
+    "24": [
+      5,
+      0,
+      1
+    ],
+    "25": [
+      8,
+      0,
+      9
+    ],
+    "26": [
+      1,
+      2,
+      8
+    ],
+    "27": [
+      0,
+      2,
+      1
+    ],
+    "28": [
+      0,
+      1,
+      5
+    ],
+    "29": [
+      1,
+      0,
+      8
+    ],
+    "30": [
+      0,
+      5,
+      1
+    ],
+    "31": [
+      0,
+      8,
+      2
+    ]
+  },
+  "org.mockito.stubbing.OngoingStubbing.thenReturn": {
+    "0": [
+      6,
+      7,
+      8
+    ],
+    "1": [
+      4,
+      0,
+      2
+    ],
+    "2": [
+      4,
+      0,
+      2
+    ],
+    "3": [
+      0,
+      3,
+      2
+    ],
+    "4": [
+      4,
+      0,
+      2
+    ],
+    "5": [
+      4,
+      0,
+      2
+    ],
+    "6": [
+      0,
+      3,
+      4
+    ],
+    "7": [
+      6,
+      7,
+      8
+    ],
+    "8": [
+      6,
+      7,
+      8
+    ],
+    "9": [
+      4,
+      5,
+      6
+    ],
+    "10": [
+      6,
+      7,
+      8
+    ],
+    "11": [
+      0,
+      3,
+      2
+    ],
+    "12": [
+      4,
+      0,
+      5
+    ],
+    "13": [
+      3,
+      4,
+      5
+    ],
+    "14": [
+      4,
+      0,
+      2
+    ],
+    "15": [
+      6,
+      7,
+      8
+    ],
+    "16": [
+      6,
+      7,
+      8
+    ],
+    "17": [
+      6,
+      7,
+      8
+    ],
+    "18": [
+      2,
+      1,
+      4
+    ],
+    "19": [
+      6,
+      7,
+      8
+    ],
+    "20": [
+      6,
+      7,
+      8
+    ],
+    "21": [
+      6,
+      7,
+      8
+    ],
+    "22": [
+      0,
+      3,
+      5
+    ],
+    "23": [
+      0,
+      2,
+      3
+    ]
+  },
+  "org.mockito.stubbing.OngoingStubbing.thenThrow": {
+    "0": [
+      1,
+      2,
+      3
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.collect.TreeMultimap.keySet": {
+    "0": [
+      7,
+      8,
+      2
+    ]
+  },
+  "com.alibaba.fastjson.JSON.toJSONString": {
+    "0": [
+      5,
+      1,
+      3
+    ]
+  },
+  "com.alibaba.fastjson.JSON.parseObject": {
+    "0": [
+      6,
+      7,
+      5
+    ]
+  },
+  "com.alibaba.fastjson.parser.DefaultJSONParser.parseObject": {},
+  "com.google.common.cache.CacheBuilder.weakKeys": {
+    "0": [
+      4,
+      2,
+      3
+    ],
+    "1": [
+      0,
+      5,
+      6
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.weakValues": {
+    "0": [
+      6,
+      7,
+      8
+    ],
+    "1": [
+      7,
+      8,
+      1
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.softValues": {
+    "0": [
+      5,
+      6,
+      7
+    ],
+    "1": [
+      5,
+      6,
+      7
+    ]
+  },
+  "com.google.common.collect.Collections2.filter": {
+    "0": [
+      8,
+      6,
+      0
+    ],
+    "1": [
+      6,
+      0,
+      1
+    ]
+  },
+  "com.google.common.base.Predicate.apply": {
+    "0": [
+      4,
+      3,
+      5
+    ],
+    "1": [
+      2,
+      3,
+      5
+    ],
+    "2": [
+      2,
+      4,
+      3
+    ],
+    "3": [
+      7,
+      8,
+      1
+    ]
+  },
+  "com.google.common.collect.HashMultimap.create": {
+    "0": [
+      5,
+      8,
+      3
+    ],
+    "1": [
+      5,
+      8,
+      2
+    ],
+    "2": [
+      1,
+      4,
+      8
+    ]
+  },
+  "org.mockito.MockitoAnnotations.initMocks": {
+    "0": [
+      8,
+      6,
+      0
+    ],
+    "1": [
+      7,
+      8,
+      5
+    ],
+    "2": [
+      8,
+      4,
+      1
+    ],
+    "3": [
+      8,
+      1,
+      5
+    ],
+    "4": [
+      0,
+      5,
+      1
+    ],
+    "5": [
+      8,
+      4,
+      5
+    ],
+    "6": [
+      7,
+      8,
+      0
+    ],
+    "7": [
+      0,
+      1,
+      5
+    ],
+    "8": [
+      7,
+      8,
+      5
+    ]
+  },
+  "com.google.common.collect.Lists.newArrayList": {
+    "0": [
+      4,
+      5,
+      6
+    ],
+    "1": [
+      5,
+      6,
+      7
+    ],
+    "2": [
+      5,
+      6,
+      7
+    ],
+    "3": [
+      1,
+      0,
+      2
+    ]
+  },
+  "com.google.common.base.CharMatcher.matches": {
+    "0": [
+      8,
+      6,
+      7
+    ]
+  },
+  "com.google.common.base.CharMatcher.is": {
+    "0": [
+      7,
+      8,
+      2
+    ]
+  },
+  "com.google.common.base.CharMatcher.forPredicate": {
+    "0": [
+      4,
+      6,
+      7
+    ]
+  },
+  "com.google.common.base.CharMatcher.and": {
+    "0": [
+      1,
+      0,
+      6
+    ]
+  },
+  "com.google.common.base.CharMatcher.or": {
+    "0": [
+      4,
+      7,
+      8
+    ]
+  },
+  "com.google.common.base.CharMatcher.inRange": {
+    "0": [
+      6,
+      7,
+      8
+    ]
+  },
+  "com.google.common.base.CharMatcher.precomputed": {
+    "0": [
+      4,
+      7,
+      6
+    ]
+  },
+  "com.google.common.base.Predicates.compose": {
+    "0": [
+      0,
+      3,
+      5
+    ]
+  },
+  "com.google.common.base.Predicates.containsPattern": {
+    "0": [
+      2,
+      8,
+      0
+    ]
+  },
+  "com.google.common.base.Functions.toStringFunction": {
+    "0": [
+      2,
+      3,
+      4
+    ]
+  },
+  "com.google.common.collect.TreeMultimap.writeObject": {},
+  "com.google.common.collect.Ordering.from": {
+    "0": [
+      7,
+      8,
+      1
+    ],
+    "1": [
+      6,
+      8,
+      3
+    ]
+  },
+  "com.google.common.collect.TreeMultimap.create": {
+    "0": [
+      1,
+      2,
+      5
+    ],
+    "1": [
+      4,
+      7,
+      3
+    ],
+    "2": [
+      4,
+      7,
+      8
+    ]
+  },
+  "com.google.common.collect.Ordering.natural": {
+    "0": [
+      1,
+      0,
+      3
+    ],
+    "1": [
+      8,
+      2,
+      0
+    ]
+  },
+  "com.google.common.collect.Ordering.nullsFirst": {
+    "0": [
+      3,
+      4,
+      5
+    ]
+  },
+  "com.google.common.collect.Ordering.onResultOf": {
+    "0": [
+      1,
+      2,
+      4
+    ],
+    "1": [
+      1,
+      2,
+      4
+    ]
+  },
+  "com.google.common.collect.Ordering.compound": {
+    "0": [
+      1,
+      7,
+      2
+    ]
+  },
+  "com.google.common.base.MoreObjects.toStringHelper": {
+    "0": [
+      4,
+      5,
+      1
+    ]
+  },
+  "com.google.common.collect.Multimaps.transformEntries": {
+    "0": [
+      3,
+      8,
+      7
+    ]
+  },
+  "com.google.common.cache.CacheLoader.load": {
+    "0": [
+      2,
+      8,
+      0
+    ],
+    "1": [
+      7,
+      2,
+      8
+    ],
+    "2": [
+      8,
+      0,
+      7
+    ],
+    "3": [
+      8,
+      0,
+      7
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.newBuilder": {
+    "0": [
+      5,
+      7,
+      6
+    ],
+    "1": [
+      2,
+      1,
+      4
+    ],
+    "2": [
+      1,
+      4,
+      3
+    ],
+    "3": [
+      1,
+      4,
+      3
+    ],
+    "4": [
+      1,
+      4,
+      8
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.build": {
+    "0": [
+      1,
+      3,
+      4
+    ],
+    "1": [
+      1,
+      3,
+      4
+    ],
+    "2": [
+      6,
+      7,
+      2
+    ],
+    "3": [
+      6,
+      7,
+      2
+    ],
+    "4": [
+      6,
+      7,
+      0
+    ],
+    "5": [
+      6,
+      7,
+      8
+    ]
+  },
+  "com.google.common.cache.LoadingCache.getUnchecked": {
+    "0": [
+      3,
+      8,
+      0
+    ],
+    "1": [
+      3,
+      7,
+      0
+    ],
+    "2": [
+      3,
+      1,
+      8
+    ]
+  },
+  "org.mockito.Mockito.doReturn": {
+    "0": [
+      0,
+      2,
+      3
+    ],
+    "1": [
+      8,
+      7,
+      0
+    ],
+    "2": [
+      8,
+      0,
+      2
+    ],
+    "3": [
+      0,
+      2,
+      7
+    ]
+  },
+  "org.mockito.Matchers.isA": {
+    "0": [],
+    "1": []
+  },
+  "org.mockito.Matchers.anyObject": {
+    "0": []
+  },
+  "org.mockito.Matchers.anyString": {
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": []
+  },
+  "org.mockito.Mockito.verify": {
+    "0": [
+      0,
+      7,
+      8
+    ],
+    "1": [
+      8,
+      5,
+      1
+    ],
+    "2": [
+      8,
+      2,
+      5
+    ],
+    "3": [
+      8,
+      1,
+      5
+    ],
+    "4": [
+      8,
+      0,
+      5
+    ],
+    "5": [
+      7,
+      8,
+      6
+    ],
+    "6": [
+      8,
+      1,
+      0
+    ],
+    "7": [
+      8,
+      5,
+      0
+    ]
+  },
+  "org.mockito.Mockito.times": {
+    "0": [
+      0,
+      5,
+      7
+    ],
+    "1": [
+      6,
+      0,
+      7
+    ],
+    "2": [
+      6,
+      0,
+      4
+    ]
+  },
+  "org.mockito.Mockito.stubVoid": {
+    "0": [
+      7,
+      8,
+      0
+    ],
+    "1": [
+      7,
+      8,
+      0
+    ]
+  },
+  "org.mockito.invocation.InvocationOnMock.getArguments": {
+    "0": [
+      6,
+      2,
+      3
+    ],
+    "1": [
+      8,
+      0,
+      2
+    ],
+    "2": [
+      5,
+      6,
+      2
+    ],
+    "3": [
+      7,
+      5,
+      6
+    ],
+    "4": [
+      8,
+      2,
+      5
+    ]
+  },
+  "org.mockito.invocation.InvocationOnMock.getMock": {
+    "0": [
+      3,
+      4,
+      5
+    ],
+    "1": [
+      3,
+      4,
+      5
+    ]
+  },
+  "com.google.common.collect.ImmutableMap.of": {
+    "0": [
+      7,
+      8,
+      0
+    ]
+  },
+  "com.google.common.collect.Table.put": {
+    "0": [
+      7,
+      1,
+      6
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.collect.Table.get": {
+    "0": [
+      4,
+      7,
+      3
+    ],
+    "1": [
+      4,
+      7,
+      1
+    ]
+  },
+  "com.google.common.collect.HashBasedTable.create": {
+    "0": [
+      8,
+      0,
+      5
+    ]
+  },
+  "com.google.common.collect.Table.row": {
+    "0": [
+      3,
+      0,
+      4
+    ]
+  },
+  "com.google.common.collect.ImmutableMap.copyOf": {
+    "0": [
+      3,
+      4,
+      7
+    ],
+    "1": [
+      5,
+      3,
+      4
+    ]
+  },
+  "com.google.common.cache.Cache.cleanUp": {
+    "0": [
+      1,
+      2,
+      4
+    ],
+    "1": [
+      1,
+      2,
+      4
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.maximumSize": {
+    "0": [
+      6,
+      7,
+      8
+    ],
+    "1": [
+      2,
+      5,
+      4
+    ],
+    "2": [
+      0,
+      6,
+      7
+    ]
+  },
+  "org.mockito.Mockito.mock": {
+    "0": [
+      4,
+      8,
+      3
+    ],
+    "1": [
+      4,
+      8,
+      7
+    ],
+    "2": [
+      4,
+      8,
+      3
+    ],
+    "3": [
+      0,
+      4,
+      8
+    ],
+    "4": [
+      4,
+      8,
+      6
+    ],
+    "5": [
+      4,
+      8,
+      6
+    ],
+    "6": [
+      4,
+      8,
+      7
+    ],
+    "7": [
+      4,
+      1,
+      8
+    ],
+    "8": [
+      4,
+      8,
+      3
+    ],
+    "9": [
+      4,
+      6,
+      8
+    ],
+    "10": [
+      4,
+      6,
+      8
+    ],
+    "11": [
+      4,
+      3,
+      8
+    ],
+    "12": [
+      4,
+      8,
+      7
+    ],
+    "13": [
+      4,
+      3,
+      6
+    ],
+    "14": [
+      4,
+      8,
+      7
+    ],
+    "15": [
+      4,
+      6,
+      8
+    ],
+    "16": [
+      4,
+      3,
+      8
+    ],
+    "17": [
+      4,
+      3,
+      6
+    ],
+    "18": [
+      4,
+      6,
+      8
+    ],
+    "19": [
+      6,
+      8,
+      0
+    ],
+    "20": [
+      4,
+      3,
+      8
+    ],
+    "21": [
+      4,
+      3,
+      8
+    ],
+    "22": [
+      4,
+      1,
+      2
+    ],
+    "23": [
+      3,
+      6,
+      0
+    ]
+  },
+  "org.mockito.AdditionalAnswers.returnsFirstArg": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "org.mockito.Matchers.any": {
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  },
+  "org.mockito.stubbing.OngoingStubbing.thenAnswer": {},
+  "org.mockito.AdditionalAnswers.returnsSecondArg": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.eventbus.SubscriberExceptionContext.getSubscriber": {
+    "0": [
+      3,
+      4,
+      8
+    ]
+  },
+  "com.google.common.eventbus.SubscriberExceptionContext.getEvent": {
+    "0": [
+      4,
+      2,
+      3
+    ]
+  },
+  "com.google.common.collect.Range.intersection": {
+    "0": [
+      1,
+      3,
+      2
+    ]
+  },
+  "org.assertj.core.api.AbstractIterableAssert.filteredOn": {
+    "0": []
+  },
+  "org.assertj.core.api.AbstractIterableAssert.allMatch": {
+    "0": []
+  },
+  "org.assertj.core.api.AbstractIterableAssert.allSatisfy": {
+    "0": []
+  },
+  "org.assertj.core.api.AbstractIterableAssert.anySatisfy": {
+    "0": []
+  },
+  "org.assertj.core.api.AbstractIterableAssert.are": {
+    "0": []
+  },
+  "org.assertj.core.api.AbstractIterableAssert.areAtLeast": {
+    "0": []
+  },
+  "org.assertj.core.api.Assertions.assertThat": {
+    "0": [
+      3,
+      5,
+      7
+    ],
+    "1": [
+      1,
+      4,
+      2
+    ],
+    "2": [
+      8,
+      1,
+      4
+    ],
+    "3": [
+      4,
+      6,
+      7
+    ],
+    "4": [
+      7,
+      8,
+      2
+    ],
+    "5": [
+      4,
+      7,
+      8
+    ],
+    "6": [
+      4,
+      6,
+      7
+    ],
+    "7": [
+      1,
+      4,
+      7
+    ],
+    "8": [
+      4,
+      6,
+      7
+    ],
+    "9": [
+      3,
+      7,
+      8
+    ]
+  },
+  "org.assertj.core.api.AbstractObjectAssert.extracting": {
+    "0": [
+      8,
+      1,
+      7
+    ]
+  },
+  "com.google.common.hash.Hashing.sha512": {
+    "0": [
+      2,
+      3,
+      4
+    ]
+  },
+  "org.mockito.ArgumentCaptor.forClass": {
+    "0": [
+      4,
+      6,
+      8
+    ],
+    "1": [
+      6,
+      8,
+      0
+    ],
+    "2": [
+      2,
+      0,
+      1
+    ]
+  },
+  "org.mockito.ArgumentCaptor.capture": {
+    "0": [
+      7,
+      5,
+      2
+    ],
+    "1": [
+      7,
+      3,
+      4
+    ],
+    "2": [
+      4,
+      6,
+      5
+    ],
+    "3": [
+      5,
+      3,
+      4
+    ],
+    "4": [
+      7,
+      2,
+      3
+    ],
+    "5": [
+      7,
+      5,
+      3
+    ]
+  },
+  "org.mockito.ArgumentCaptor.getValue": {
+    "0": [
+      7,
+      1,
+      4
+    ],
+    "1": [
+      8,
+      7,
+      2
+    ],
+    "2": [
+      7,
+      2,
+      1
+    ],
+    "3": [
+      2,
+      7,
+      3
+    ],
+    "4": [
+      5,
+      7,
+      3
+    ]
+  },
+  "com.google.common.collect.ImmutableList.of": {
+    "0": [
+      4,
+      0,
+      5
+    ],
+    "1": [
+      2,
+      8,
+      5
+    ],
+    "2": [
+      8,
+      0,
+      3
+    ]
+  },
+  "com.google.common.collect.Multimaps.index": {
+    "0": [
+      7,
+      8,
+      5
+    ]
+  },
+  "com.google.common.collect.Multimaps.transformValues": {
+    "0": [
+      8,
+      5,
+      1
+    ]
+  },
+  "com.google.common.collect.ImmutableListMultimap.copyOf": {
+    "0": [
+      8,
+      3,
+      2
+    ]
+  },
+  "com.google.common.base.Objects.equal": {
+    "0": [
+      6,
+      7,
+      8
+    ],
+    "1": [
+      3,
+      1,
+      2
+    ],
+    "2": [
+      6,
+      7,
+      8
+    ],
+    "3": [
+      2,
+      5,
+      4
+    ]
+  },
+  "com.google.common.cache.Cache.stats": {
+    "0": [
+      4,
+      5,
+      6
+    ]
+  },
+  "com.google.common.cache.CacheStats.loadSuccessCount": {
+    "0": [
+      4,
+      5,
+      2
+    ]
+  },
+  "com.google.common.cache.CacheStats.totalLoadTime": {
+    "0": [
+      1,
+      2,
+      7
+    ]
+  },
+  "com.google.common.cache.CacheStats.loadExceptionCount": {
+    "0": [
+      4,
+      7,
+      2
+    ]
+  },
+  "com.google.common.cache.CacheStats.evictionCount": {
+    "0": [
+      7,
+      8,
+      1
+    ]
+  },
+  "com.google.common.cache.LoadingCache.get": {
+    "0": [
+      1,
+      5,
+      6
+    ]
+  },
+  "com.google.common.cache.Cache.get": {
+    "0": [
+      3,
+      7,
+      8
+    ]
+  },
+  "com.google.common.cache.LoadingCache.getAll": {
+    "0": [
+      0,
+      1,
+      3
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.refreshAfterWrite": {
+    "0": [
+      2,
+      3,
+      7
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.recordStats": {
+    "0": [
+      2,
+      4,
+      6
+    ]
+  },
+  "com.google.common.cache.CacheStats.minus": {
+    "0": [
+      2,
+      3,
+      5
+    ]
+  },
+  "com.google.common.io.FileBackedOutputStream.asByteSource": {
+    "0": [
+      8,
+      1,
+      0
+    ]
+  },
+  "com.google.common.collect.ComparisonChain.start": {
+    "0": [
+      7,
+      2,
+      0
+    ]
+  },
+  "com.google.common.collect.ComparisonChain.result": {
+    "0": [
+      7,
+      5,
+      3
+    ]
+  },
+  "com.google.common.collect.ComparisonChain.compare": {
+    "0": [
+      5,
+      2,
+      0
+    ]
+  },
+  "org.mockito.InOrder.verify": {
+    "0": [
+      5,
+      7,
+      4
+    ],
+    "1": [
+      4,
+      8,
+      5
+    ]
+  },
+  "org.mockito.Mockito.inOrder": {
+    "0": [
+      3,
+      7,
+      1
+    ]
+  },
+  "org.mockito.Matchers.eq": {
+    "0": [],
+    "1": []
+  },
+  "com.google.common.collect.Sets.filter": {
+    "0": [
+      0,
+      8,
+      4
+    ]
+  },
+  "com.google.common.collect.DiscreteDomain.integers": {
+    "0": [
+      5,
+      8,
+      6
+    ]
+  },
+  "com.google.common.collect.Range.closed": {
+    "0": [
+      0,
+      6,
+      2
+    ]
+  },
+  "com.google.common.collect.MultimapBuilder.treeKeys": {
+    "0": [
+      2,
+      5,
+      1
+    ],
+    "1": [
+      0,
+      2,
+      1
+    ]
+  },
+  "com.google.common.collect.MultimapBuilder.hashKeys": {
+    "0": [
+      4,
+      7,
+      2
+    ]
+  },
+  "com.google.common.base.Joiner.on": {
+    "0": [
+      5,
+      1,
+      2
+    ]
+  },
+  "com.google.common.base.Joiner.skipNulls": {
+    "0": [
+      1,
+      5,
+      8
+    ]
+  },
+  "com.google.common.base.Joiner.useForNull": {
+    "0": [
+      4,
+      6,
+      7
+    ]
+  },
+  "com.google.common.base.Joiner.join": {
+    "0": [
+      7,
+      3,
+      0
+    ]
+  },
+  "com.google.common.collect.Sets.newConcurrentHashSet": {
+    "0": [
+      6,
+      3,
+      7
+    ]
+  },
+  "com.google.common.collect.Multimaps.newMultimap": {
+    "0": [
+      0,
+      1,
+      2
+    ],
+    "1": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.collect.Sets.newSetFromMap": {
+    "0": [
+      6,
+      3,
+      0
+    ]
+  },
+  "org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks": {
+    "0": [
+      2,
+      3,
+      4
+    ]
+  },
+  "com.google.common.collect.Maps.newHashMap": {
+    "0": [
+      0,
+      8,
+      4
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ]
+  },
+  "com.google.common.eventbus.EventBus.register": {
+    "0": [
+      8,
+      6,
+      2
+    ]
+  },
+  "com.google.common.eventbus.EventBus.post": {
+    "0": [
+      5,
+      8,
+      2
+    ]
+  },
+  "com.google.common.collect.FluentIterable.from": {
+    "0": [
+      6,
+      1,
+      7
+    ]
+  },
+  "com.google.common.collect.FluentIterable.limit": {
+    "0": [
+      4,
+      0,
+      1
+    ]
+  },
+  "com.google.common.collect.FluentIterable.filter": {
+    "0": [
+      5,
+      6,
+      2
+    ]
+  },
+  "com.google.common.collect.Maps.filterValues": {
+    "0": [
+      8,
+      4,
+      5
+    ]
+  },
+  "org.mockito.Mockito.doNothing": {
+    "0": [
+      8,
+      7,
+      4
+    ],
+    "1": [
+      6,
+      1,
+      5
+    ]
+  },
+  "com.google.common.collect.Maps.difference": {
+    "0": [
+      1,
+      4,
+      7
+    ]
+  },
+  "org.mockito.stubbing.VoidMethodStubbable.on": {},
+  "org.mockito.stubbing.VoidMethodStubbable.toAnswer": {},
+  "org.mockito.Matchers.anyVararg": {
+    "0": [],
+    "1": []
+  },
+  "org.mockito.Matchers.anyInt": {
+    "0": []
+  },
+  "org.mockito.Matchers.anyLong": {
+    "0": [],
+    "1": []
+  },
+  "com.google.common.base.Functions.forMap": {
+    "0": [
+      6,
+      8,
+      0
+    ]
+  },
+  "com.google.common.collect.Collections2.transform": {
+    "0": [],
+    "1": []
+  },
+  "org.mockito.plugins.MockMaker.createMock": {
+    "0": [
+      5,
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ]
+  },
+  "org.mockito.mock.MockCreationSettings.getInvocationListeners": {
+    "0": [
+      3,
+      6,
+      8
+    ]
+  },
+  "org.mockito.listeners.MethodInvocationReport.getInvocation": {
+    "0": [
+      0,
+      1,
+      2
+    ]
+  },
+  "org.mockito.listeners.MethodInvocationReport.getReturnedValue": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "org.mockito.plugins.MockMaker.getHandler": {
+    "0": [
+      6,
+      3,
+      0
+    ]
+  },
+  "org.mockito.plugins.MockMaker.resetMock": {
+    "0": [
+      5,
+      0,
+      6
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.expireAfterWrite": {
+    "0": [
+      2,
+      4,
+      6
+    ],
+    "1": [
+      4,
+      2,
+      0
+    ]
+  },
+  "com.google.common.cache.CacheBuilder.concurrencyLevel": {
+    "0": [
+      4,
+      6,
+      7
+    ]
+  },
+  "com.google.common.collect.Multimap.entries": {
+    "0": [
+      8,
+      2,
+      3
+    ]
+  },
+  "com.google.common.io.Files.asCharSink": {
+    "0": [
+      8,
+      2,
+      5
+    ]
+  },
+  "com.google.common.collect.ImmutableTable.builder": {
+    "0": [
+      3,
+      6,
+      7
+    ]
+  },
+  "com.google.common.cache.Cache.size": {
+    "0": [
+      7,
+      1,
+      4
+    ],
+    "1": [
+      0,
+      5,
+      7
+    ]
+  },
+  "com.google.common.collect.MapMaker.weakKeys": {
+    "0": [
+      4,
+      2,
+      1
+    ]
+  },
+  "com.google.common.collect.MapMaker.weakValues": {
+    "0": [
+      1,
+      3,
+      4
+    ]
+  },
+  "com.google.common.collect.MapMaker.makeMap": {
+    "0": [
+      4,
+      6,
+      7
+    ]
+  },
+  "org.mockito.Mockito.spy": {
+    "0": [
+      8,
+      0,
+      1
+    ],
+    "1": [
+      0,
+      8,
+      7
+    ],
+    "2": [
+      0,
+      8,
+      7
+    ],
+    "3": [
+      8,
+      0,
+      7
+    ],
+    "4": [
+      8,
+      0,
+      7
+    ],
+    "5": [
+      7,
+      0,
+      8
+    ]
+  },
+  "org.assertj.core.internal.Objects.assertNotNull": {},
+  "org.mockito.BDDMockito.given": {
+    "0": [
+      3,
+      6,
+      1
+    ]
+  },
+  "org.mockito.BDDMockito.willReturn": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.hash.HashCode.fromInt": {
+    "0": [
+      1,
+      3,
+      5
+    ]
+  },
+  "org.mockito.stubbing.Stubber.doNothing": {},
+  "com.google.common.collect.Ordering.arbitrary": {
+    "0": [
+      0,
+      4,
+      7
+    ]
+  },
+  "com.google.common.collect.MultimapBuilder.build": {
+    "0": [
+      4,
+      2,
+      5
+    ],
+    "1": [
+      2,
+      3,
+      5
+    ]
+  },
+  "com.google.common.collect.Maps.newTreeMap": {
+    "0": [
+      7,
+      1,
+      4
+    ]
+  },
+  "com.google.common.collect.Lists.newLinkedList": {
+    "0": [
+      1,
+      2,
+      3
+    ]
+  },
+  "com.google.common.base.Stopwatch.createUnstarted": {
+    "0": [
+      6,
+      3,
+      4
+    ]
+  },
+  "com.google.common.io.Files.toByteArray": {
+    "0": [
+      0,
+      1,
+      2
+    ]
+  },
+  "org.mockito.stubbing.OngoingStubbing.thenCallRealMethod": {
+    "0": [
+      3,
+      4,
+      5
+    ]
+  },
+  "com.google.common.collect.Ordering.compare": {
+    "0": [
+      5,
+      3,
+      7
+    ],
+    "1": [
+      7,
+      1,
+      3
+    ],
+    "2": [
+      1,
+      0,
+      6
+    ]
+  },
+  "com.google.common.collect.Ordering.explicit": {
+    "0": [
+      6,
+      8,
+      7
+    ]
+  },
+  "com.google.common.collect.Ordering.sortedCopy": {
+    "0": [
+      2,
+      5,
+      8
+    ]
+  },
+  "org.mockito.stubbing.OngoingStubbing.then": {
+    "0": [],
+    "1": []
+  },
+  "org.mockito.AdditionalMatchers.and": {
+    "0": [
+      8,
+      5,
+      2
+    ]
+  },
+  "com.google.common.util.concurrent.Futures.successfulAsList": {
+    "0": [
+      8,
+      0,
+      3
+    ]
+  },
+  "com.google.common.util.concurrent.Futures.allAsList": {
+    "0": [
+      0,
+      2,
+      8
+    ]
+  },
+  "org.mockito.AdditionalMatchers.aryEq": {},
+  "com.google.common.collect.SetMultimap.asMap": {
+    "0": [
+      7,
+      0,
+      2
+    ]
+  },
+  "com.google.common.collect.SetMultimap.get": {
+    "0": [
+      2,
+      6,
+      7
+    ]
+  },
+  "com.google.common.collect.Multimaps.newSetMultimap": {
+    "0": [
+      0,
+      1,
+      2
+    ]
+  },
+  "com.google.common.collect.Multimaps.newSortedSetMultimap": {
+    "0": [
+      6,
+      7,
+      0
+    ]
+  },
+  "com.google.common.collect.Queues.synchronizedQueue": {
+    "0": [
+      4,
+      6,
+      2
+    ]
+  },
+  "com.google.common.collect.MinMaxPriorityQueue.create": {
+    "0": [
+      8,
+      3,
+      6
+    ]
+  },
+  "com.google.common.collect.Iterables.transform": {
+    "0": [
+      4,
+      5,
+      2
+    ],
+    "1": [
+      6,
+      7,
+      4
+    ]
+  },
+  "com.google.common.collect.Lists.transform": {
+    "0": [
+      5,
+      6,
+      7
+    ]
+  },
+  "com.google.common.base.Ascii.equalsIgnoreCase": {}
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+	Spatial by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+
+	<head>
+		<title>API related resource search</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="static/spatial/assets/css/main.css" />
+		<link rel="stylesheet" href="static/spatial/assets/css/paginate.css" />
+	</head>
+
+	<body class="landing">
+
+		<!-- HOME -->
+		{%if not query%}
+		<section id="banner">
+			<h2>API related resource search</h2>
+			<p>Search from Stack Overflow and Github</p>
+			<ul class="actions">
+				<li>
+					<form action="/" method="GET" name="search" role="search">
+						<input id="query" name="query" type="text" value="" placeholder="Enter API FQN (e.g., org.mockito.Mockito.mock""/>
+					</form>
+				</li>
+			</ul>
+		</section>
+		{%endif%}
+
+		<!-- RESULTS -->
+		{%if query%}
+		<section id="three" class="wrapper style1">
+			
+			<div class="container">
+				<form action="/" method="GET" name="search" role="search">
+					<header class="major special">
+						<input name="query" id="query" type="text" style="display:none; text-transform: lowercase;" value="{{query}}"></input>
+						<h2 id="queryeditable" contenteditable="true" style="text-transform: initial; font-size: 25px;">{{query}}<svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></h2>
+						<p style="text-transform: lowercase">About {{total}} results ({{response_time}} seconds)</p>
+					</header>
+				</form>
+
+				<div class="feature-grid">
+					{%for result in results%}
+					<div class="fea-grid">
+						<div class="fea-grid-left">
+							<div class="feature">
+								<div class="content" style="float: left; margin-left: 0; margin-right: 0;">
+									<header>
+										<h4><a href="{{result.link}}" style="text-transform: capitalize">{{result.title|safe|truncate_title}}</a></h4>
+										<p style="text-transform: lowercase">{{result.link}}</p>
+									</header>
+									<p class="thread_preview">{{result.shown_text|safe}}</p>
+								</div>                                     
+							</div>
+						</div>
+						<div class="fea-grid-right">
+							{%for gh_result in result.linked_gh_code%}
+							<div class="feature result-row">
+								<div class="content">
+									<header>
+										<a href="{{gh_result.link}}"><p style="text-transform: lowercase" class="gh-link">
+											{%- if gh_result.link -%}{{gh_result.link}}{%- endif -%}</p></a>
+									</header>
+								</div>
+								<div class="card horizontal col offset-m0 offset-l1 m12 l10" style="color:black">
+									<pre class="prettyprint" style="border-color: transparent;margin: 0px; font-size: 12px;">
+									{%- if gh_result.code -%}
+										{{gh_result.code|safe}}
+									 {%- endif -%}
+									</pre>
+								</div>
+							</div>
+							{%endfor%}
+						</div>
+						
+					</div>
+					
+					{%endfor%}
+
+					
+					
+				</div>
+			</div>
+		</section>
+		{%endif%}
+
+
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="container">
+				<!-- <ul class="icons">
+					<li><a href="https://www.byprog.com" target="_blank" class="icon fa-globe"></a></li>
+					<li><a href="https://www.linkedin.com/in/anthonysigogne/" target="_blank" class="icon fa-linkedin"></a></li>
+					<li><a href="https://github.com/AnthonySigogne" target="_blank" class="icon fa-github"></a></li>
+				</ul> -->
+				<ul class="copyright">
+					<li>&copy; Modified by - SOAR from Singapore Management University</li>
+					<li>&copy; Template from Anthony Sigogne</li>
+				</ul>
+			</div>
+		</footer>
+
+		<!-- Scripts -->
+
+        <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+		<script src="static/spatial/assets/js/skel.min.js"></script>
+		<script src="static/spatial/assets/js/util.js"></script>
+		<script src="static/spatial/assets/js/main.js"></script>
+
+	</body>
+</html>

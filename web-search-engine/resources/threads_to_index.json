@@ -1,0 +1,2239 @@
+{
+    "org.mockito.invocation.InvocationOnMock.getMethod": [
+      {
+        "thread_id": "17732461",
+        "link": "https://stackoverflow.com/questions/17732461",
+        "title": "How to stub all the method in the same mocked class"
+      }
+    ],
+    "com.google.common.base.Objects.hashCode": [
+      {
+        "thread_id": "10201083",
+        "link": "https://stackoverflow.com/questions/10201083",
+        "title": "Java: Only check hashCode in equals() of immutable object"
+      },
+      {
+        "thread_id": "6158601",
+        "link": "https://stackoverflow.com/questions/6158601",
+        "title": "guava-libraries: Is Objects.hashCode(Object[]) collision safe?"
+      },
+      {
+        "thread_id": "16047547",
+        "link": "https://stackoverflow.com/questions/16047547",
+        "title": "Why isn't there guava Objects.equal(Object, Object) to primitive types?"
+      }
+    ],
+    "org.mockito.AdditionalAnswers.returnsElementsOf": [
+      {
+        "thread_id": "49930467",
+        "link": "https://stackoverflow.com/questions/49930467",
+        "title": "How to make mockito return values from a list for each iteration on a for loop"
+      },
+      {
+        "thread_id": "39961768",
+        "link": "https://stackoverflow.com/questions/39961768",
+        "title": "Mockito control output returned based off input"
+      }
+    ],
+    "org.mockito.Mockito.doAnswer": [
+      {
+        "thread_id": "56521214",
+        "link": "https://stackoverflow.com/questions/56521214",
+        "title": "Async AssertionError not failing the test Case"
+      },
+      {
+        "thread_id": "39961768",
+        "link": "https://stackoverflow.com/questions/39961768",
+        "title": "Mockito control output returned based off input"
+      },
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      },
+      {
+        "thread_id": "49930467",
+        "link": "https://stackoverflow.com/questions/49930467",
+        "title": "How to make mockito return values from a list for each iteration on a for loop"
+      },
+      {
+        "thread_id": "29980906",
+        "link": "https://stackoverflow.com/questions/29980906",
+        "title": "Mock a void method with a delay"
+      }
+    ],
+    "org.mockito.stubbing.Stubber.when": [],
+    "com.google.common.collect.Maps.uniqueIndex": [
+      {
+        "thread_id": "7758283",
+        "link": "https://stackoverflow.com/questions/7758283",
+        "title": "Does guava have a method for turning an iterable into a map of unique types?"
+      }
+    ],
+    "com.google.common.collect.Maps.transformValues": [
+      {
+        "thread_id": "8354200",
+        "link": "https://stackoverflow.com/questions/8354200",
+        "title": "Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating"
+      },
+      {
+        "thread_id": "7758283",
+        "link": "https://stackoverflow.com/questions/7758283",
+        "title": "Does guava have a method for turning an iterable into a map of unique types?"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.Sets.difference": [
+      {
+        "thread_id": "33138276",
+        "link": "https://stackoverflow.com/questions/33138276",
+        "title": "Check if two collections are the same (ignoring order) using a custom equality function"
+      }
+    ],
+    "com.google.common.collect.Iterables.cycle": [
+      {
+        "thread_id": "32572919",
+        "link": "https://stackoverflow.com/questions/32572919",
+        "title": "Using Guava Iterables.cycle as a circular list impl"
+      },
+      {
+        "thread_id": "2155788",
+        "link": "https://stackoverflow.com/questions/2155788",
+        "title": "Most of the Iterators and Iterables methods are LAZY! What does this mean"
+      }
+    ],
+    "org.mockito.Mockito.when": [
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      },
+      {
+        "thread_id": "29303731",
+        "link": "https://stackoverflow.com/questions/29303731",
+        "title": "NoClassDefFoundError when I create mock for method with parameters"
+      },
+      {
+        "thread_id": "14440270",
+        "link": "https://stackoverflow.com/questions/14440270",
+        "title": "How does mockito when() invocation work?"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "31914632",
+        "link": "https://stackoverflow.com/questions/31914632",
+        "title": "Mockito thenThrow throws mockito exception"
+      },
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      },
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "55286432",
+        "link": "https://stackoverflow.com/questions/55286432",
+        "title": "Can I manipulate the order of mockito matchers?"
+      },
+      {
+        "thread_id": "37048855",
+        "link": "https://stackoverflow.com/questions/37048855",
+        "title": "Decoupling a Mockito test from a specifc test value?"
+      },
+      {
+        "thread_id": "39961768",
+        "link": "https://stackoverflow.com/questions/39961768",
+        "title": "Mockito control output returned based off input"
+      },
+      {
+        "thread_id": "58973667",
+        "link": "https://stackoverflow.com/questions/58973667",
+        "title": "Best way for testing service-layer by Mockito"
+      },
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      },
+      {
+        "thread_id": "42082918",
+        "link": "https://stackoverflow.com/questions/42082918",
+        "title": "Mockito & PowerMock - class size limitations"
+      },
+      {
+        "thread_id": "54774679",
+        "link": "https://stackoverflow.com/questions/54774679",
+        "title": "MapStruct : mocking nested mapper"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      },
+      {
+        "thread_id": "19155369",
+        "link": "https://stackoverflow.com/questions/19155369",
+        "title": "set mock return value for any integer input parameter"
+      },
+      {
+        "thread_id": "19949762",
+        "link": "https://stackoverflow.com/questions/19949762",
+        "title": "Mockito: How to match any enum parameter"
+      },
+      {
+        "thread_id": "57142466",
+        "link": "https://stackoverflow.com/questions/57142466",
+        "title": "Java Mockito- how to mock uncertain number of parameter method"
+      },
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      },
+      {
+        "thread_id": "60090237",
+        "link": "https://stackoverflow.com/questions/60090237",
+        "title": "How to write a Mockito test for Java 8 Predicate"
+      },
+      {
+        "thread_id": "24618956",
+        "link": "https://stackoverflow.com/questions/24618956",
+        "title": "Is it possible to invoke mocked object's method?"
+      },
+      {
+        "thread_id": "49930467",
+        "link": "https://stackoverflow.com/questions/49930467",
+        "title": "How to make mockito return values from a list for each iteration on a for loop"
+      },
+      {
+        "thread_id": "50424048",
+        "link": "https://stackoverflow.com/questions/50424048",
+        "title": "Mockito InjectMocks with new Initialized Class Variables"
+      },
+      {
+        "thread_id": "17695056",
+        "link": "https://stackoverflow.com/questions/17695056",
+        "title": "Matching JdbcTemplate update method with Mockito"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "56135373",
+        "link": "https://stackoverflow.com/questions/56135373",
+        "title": "Optional cannot be returned by stream() in Mockito Test classes"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "44173069",
+        "link": "https://stackoverflow.com/questions/44173069",
+        "title": "Error While running junit testcase in eclipse"
+      },
+      {
+        "thread_id": "61519070",
+        "link": "https://stackoverflow.com/questions/61519070",
+        "title": "No tests found in Mokito 2 with Junit 5 and spring boot 2"
+      },
+      {
+        "thread_id": "49783615",
+        "link": "https://stackoverflow.com/questions/49783615",
+        "title": "Mockito + PowerMock - mock Thread.currentThread().getStackTrace()"
+      },
+      {
+        "thread_id": "56521214",
+        "link": "https://stackoverflow.com/questions/56521214",
+        "title": "Async AssertionError not failing the test Case"
+      }
+    ],
+    "org.mockito.stubbing.OngoingStubbing.thenReturn": [
+      {
+        "thread_id": "14440270",
+        "link": "https://stackoverflow.com/questions/14440270",
+        "title": "How does mockito when() invocation work?"
+      },
+      {
+        "thread_id": "19949762",
+        "link": "https://stackoverflow.com/questions/19949762",
+        "title": "Mockito: How to match any enum parameter"
+      },
+      {
+        "thread_id": "19155369",
+        "link": "https://stackoverflow.com/questions/19155369",
+        "title": "set mock return value for any integer input parameter"
+      },
+      {
+        "thread_id": "57142466",
+        "link": "https://stackoverflow.com/questions/57142466",
+        "title": "Java Mockito- how to mock uncertain number of parameter method"
+      },
+      {
+        "thread_id": "55286432",
+        "link": "https://stackoverflow.com/questions/55286432",
+        "title": "Can I manipulate the order of mockito matchers?"
+      },
+      {
+        "thread_id": "60090237",
+        "link": "https://stackoverflow.com/questions/60090237",
+        "title": "How to write a Mockito test for Java 8 Predicate"
+      },
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      },
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      },
+      {
+        "thread_id": "50424048",
+        "link": "https://stackoverflow.com/questions/50424048",
+        "title": "Mockito InjectMocks with new Initialized Class Variables"
+      },
+      {
+        "thread_id": "39276289",
+        "link": "https://stackoverflow.com/questions/39276289",
+        "title": "Is it not possible to set expectations on a lazy property?"
+      },
+      {
+        "thread_id": "17695056",
+        "link": "https://stackoverflow.com/questions/17695056",
+        "title": "Matching JdbcTemplate update method with Mockito"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "42082918",
+        "link": "https://stackoverflow.com/questions/42082918",
+        "title": "Mockito & PowerMock - class size limitations"
+      },
+      {
+        "thread_id": "56135373",
+        "link": "https://stackoverflow.com/questions/56135373",
+        "title": "Optional cannot be returned by stream() in Mockito Test classes"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "49783615",
+        "link": "https://stackoverflow.com/questions/49783615",
+        "title": "Mockito + PowerMock - mock Thread.currentThread().getStackTrace()"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "58973667",
+        "link": "https://stackoverflow.com/questions/58973667",
+        "title": "Best way for testing service-layer by Mockito"
+      },
+      {
+        "thread_id": "44173069",
+        "link": "https://stackoverflow.com/questions/44173069",
+        "title": "Error While running junit testcase in eclipse"
+      },
+      {
+        "thread_id": "61519070",
+        "link": "https://stackoverflow.com/questions/61519070",
+        "title": "No tests found in Mokito 2 with Junit 5 and spring boot 2"
+      },
+      {
+        "thread_id": "31914632",
+        "link": "https://stackoverflow.com/questions/31914632",
+        "title": "Mockito thenThrow throws mockito exception"
+      },
+      {
+        "thread_id": "8806027",
+        "link": "https://stackoverflow.com/questions/8806027",
+        "title": "ClassNotFound Error when using mockito to mock a class"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      }
+    ],
+    "org.mockito.stubbing.OngoingStubbing.thenThrow": [
+      {
+        "thread_id": "31914632",
+        "link": "https://stackoverflow.com/questions/31914632",
+        "title": "Mockito thenThrow throws mockito exception"
+      },
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      }
+    ],
+    "com.google.common.collect.TreeMultimap.keySet": [
+      {
+        "thread_id": "15453857",
+        "link": "https://stackoverflow.com/questions/15453857",
+        "title": "ceiling() with TreeMultimap"
+      }
+    ],
+    "com.alibaba.fastjson.JSON.toJSONString": [
+      {
+        "thread_id": "50251352",
+        "link": "https://stackoverflow.com/questions/50251352",
+        "title": "Deserialization fails when there is no default constructor"
+      }
+    ],
+    "com.alibaba.fastjson.JSON.parseObject": [
+      {
+        "thread_id": "50251352",
+        "link": "https://stackoverflow.com/questions/50251352",
+        "title": "Deserialization fails when there is no default constructor"
+      }
+    ],
+    "com.alibaba.fastjson.parser.DefaultJSONParser.parseObject": [],
+    "com.google.common.cache.CacheBuilder.weakKeys": [
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "63466731",
+        "link": "https://stackoverflow.com/questions/63466731",
+        "title": "Google Guava cache calling load method every time even if the key exists"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.weakValues": [
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "63466731",
+        "link": "https://stackoverflow.com/questions/63466731",
+        "title": "Google Guava cache calling load method every time even if the key exists"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.softValues": [
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "63466731",
+        "link": "https://stackoverflow.com/questions/63466731",
+        "title": "Google Guava cache calling load method every time even if the key exists"
+      }
+    ],
+    "com.google.common.collect.Collections2.filter": [
+      {
+        "thread_id": "25550515",
+        "link": "https://stackoverflow.com/questions/25550515",
+        "title": "Issue with Sorting List using collections in java"
+      },
+      {
+        "thread_id": "5719833",
+        "link": "https://stackoverflow.com/questions/5719833",
+        "title": "Get all Values from a Map for some Keys in Java/Guava?"
+      }
+    ],
+    "com.google.common.base.Predicate.apply": [
+      {
+        "thread_id": "25550515",
+        "link": "https://stackoverflow.com/questions/25550515",
+        "title": "Issue with Sorting List using collections in java"
+      },
+      {
+        "thread_id": "33138276",
+        "link": "https://stackoverflow.com/questions/33138276",
+        "title": "Check if two collections are the same (ignoring order) using a custom equality function"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "60090237",
+        "link": "https://stackoverflow.com/questions/60090237",
+        "title": "How to write a Mockito test for Java 8 Predicate"
+      }
+    ],
+    "com.google.common.collect.HashMultimap.create": [
+      {
+        "thread_id": "25673984",
+        "link": "https://stackoverflow.com/questions/25673984",
+        "title": "Convert Guava HashMultimap to json"
+      },
+      {
+        "thread_id": "3949942",
+        "link": "https://stackoverflow.com/questions/3949942",
+        "title": "Priority Queue using MultiMap - Java"
+      },
+      {
+        "thread_id": "19004541",
+        "link": "https://stackoverflow.com/questions/19004541",
+        "title": "Get weird Output like \"Values@7d5b6e\" instead of some certain strings"
+      }
+    ],
+    "org.mockito.MockitoAnnotations.initMocks": [
+      {
+        "thread_id": "35066742",
+        "link": "https://stackoverflow.com/questions/35066742",
+        "title": "Gwt Mockito: @RunWith(GwtMockitoTestRunner.class) causes Exception"
+      },
+      {
+        "thread_id": "38273418",
+        "link": "https://stackoverflow.com/questions/38273418",
+        "title": "@RunWith(MockitoJUnitRunner.class) doesn't initialize mocks"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      },
+      {
+        "thread_id": "37048855",
+        "link": "https://stackoverflow.com/questions/37048855",
+        "title": "Decoupling a Mockito test from a specifc test value?"
+      },
+      {
+        "thread_id": "13048985",
+        "link": "https://stackoverflow.com/questions/13048985",
+        "title": "VerifyError using Mockito 1.9.5 and DexMaker-Mockito-1.0"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "8197921",
+        "link": "https://stackoverflow.com/questions/8197921",
+        "title": "Mocking Spring Bean"
+      },
+      {
+        "thread_id": "43019566",
+        "link": "https://stackoverflow.com/questions/43019566",
+        "title": "Unit testing code in catch block of a Spring Controller"
+      },
+      {
+        "thread_id": "44173069",
+        "link": "https://stackoverflow.com/questions/44173069",
+        "title": "Error While running junit testcase in eclipse"
+      }
+    ],
+    "com.google.common.collect.Lists.newArrayList": [
+      {
+        "thread_id": "6354025",
+        "link": "https://stackoverflow.com/questions/6354025",
+        "title": "Trouble with GWT and Guava"
+      },
+      {
+        "thread_id": "29277173",
+        "link": "https://stackoverflow.com/questions/29277173",
+        "title": "How to update bean while iterating"
+      },
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.base.CharMatcher.matches": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.is": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.forPredicate": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.and": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.or": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.inRange": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.CharMatcher.precomputed": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.Predicates.compose": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.Predicates.containsPattern": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.base.Functions.toStringFunction": [
+      {
+        "thread_id": "12378702",
+        "link": "https://stackoverflow.com/questions/12378702",
+        "title": "How to write the CharMatcher equivalent for the regex \"word character\"?"
+      }
+    ],
+    "com.google.common.collect.TreeMultimap.writeObject": [],
+    "com.google.common.collect.Ordering.from": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      },
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.collect.TreeMultimap.create": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      },
+      {
+        "thread_id": "48259912",
+        "link": "https://stackoverflow.com/questions/48259912",
+        "title": "TreeMultimap not throwing out NullPointerException"
+      },
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.collect.Ordering.natural": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      },
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.collect.Ordering.nullsFirst": [
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.collect.Ordering.onResultOf": [
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      },
+      {
+        "thread_id": "16213103",
+        "link": "https://stackoverflow.com/questions/16213103",
+        "title": "Java comparator by using priority for classes that extend a common parent class"
+      }
+    ],
+    "com.google.common.collect.Ordering.compound": [
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.base.MoreObjects.toStringHelper": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      }
+    ],
+    "com.google.common.collect.Multimaps.transformEntries": [
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.cache.CacheLoader.load": [
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.newBuilder": [
+      {
+        "thread_id": "15900557",
+        "link": "https://stackoverflow.com/questions/15900557",
+        "title": "How to Make guava cache value permanent"
+      },
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.build": [
+      {
+        "thread_id": "15900557",
+        "link": "https://stackoverflow.com/questions/15900557",
+        "title": "How to Make guava cache value permanent"
+      },
+      {
+        "thread_id": "14412237",
+        "link": "https://stackoverflow.com/questions/14412237",
+        "title": "Issue while running hive job for giraph for graph analysis"
+      },
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      },
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      }
+    ],
+    "com.google.common.cache.LoadingCache.getUnchecked": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      },
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      }
+    ],
+    "org.mockito.Mockito.doReturn": [
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "29303731",
+        "link": "https://stackoverflow.com/questions/29303731",
+        "title": "NoClassDefFoundError when I create mock for method with parameters"
+      },
+      {
+        "thread_id": "56135373",
+        "link": "https://stackoverflow.com/questions/56135373",
+        "title": "Optional cannot be returned by stream() in Mockito Test classes"
+      }
+    ],
+    "org.mockito.Matchers.isA": [
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      },
+      {
+        "thread_id": "21430378",
+        "link": "https://stackoverflow.com/questions/21430378",
+        "title": "Mockito isA() & any...()"
+      }
+    ],
+    "org.mockito.Matchers.anyObject": [
+      {
+        "thread_id": "21430378",
+        "link": "https://stackoverflow.com/questions/21430378",
+        "title": "Mockito isA() & any...()"
+      }
+    ],
+    "org.mockito.Matchers.anyString": [
+      {
+        "thread_id": "21430378",
+        "link": "https://stackoverflow.com/questions/21430378",
+        "title": "Mockito isA() & any...()"
+      },
+      {
+        "thread_id": "23273230",
+        "link": "https://stackoverflow.com/questions/23273230",
+        "title": "Misplaced argument matcher detected here. You cannot use argument matchers outside of verification or stubbing in Mockito"
+      },
+      {
+        "thread_id": "32218312",
+        "link": "https://stackoverflow.com/questions/32218312",
+        "title": "I used doReturn, why would Mockito still call real implementation inside anonymous class?"
+      },
+      {
+        "thread_id": "37048855",
+        "link": "https://stackoverflow.com/questions/37048855",
+        "title": "Decoupling a Mockito test from a specifc test value?"
+      }
+    ],
+    "org.mockito.Mockito.verify": [
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "27303562",
+        "link": "https://stackoverflow.com/questions/27303562",
+        "title": "Why does upgrading Mockito from 1.9.5 to 1.10.8 break this Captor?"
+      },
+      {
+        "thread_id": "21430378",
+        "link": "https://stackoverflow.com/questions/21430378",
+        "title": "Mockito isA() & any...()"
+      },
+      {
+        "thread_id": "19482372",
+        "link": "https://stackoverflow.com/questions/19482372",
+        "title": "How do I simplify mockito/hamcrest argument matchers in test method?"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "17695056",
+        "link": "https://stackoverflow.com/questions/17695056",
+        "title": "Matching JdbcTemplate update method with Mockito"
+      }
+    ],
+    "org.mockito.Mockito.times": [
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      },
+      {
+        "thread_id": "49783615",
+        "link": "https://stackoverflow.com/questions/49783615",
+        "title": "Mockito + PowerMock - mock Thread.currentThread().getStackTrace()"
+      },
+      {
+        "thread_id": "21430378",
+        "link": "https://stackoverflow.com/questions/21430378",
+        "title": "Mockito isA() & any...()"
+      }
+    ],
+    "org.mockito.Mockito.stubVoid": [
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      },
+      {
+        "thread_id": "29980906",
+        "link": "https://stackoverflow.com/questions/29980906",
+        "title": "Mock a void method with a delay"
+      }
+    ],
+    "org.mockito.invocation.InvocationOnMock.getArguments": [
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      },
+      {
+        "thread_id": "39961768",
+        "link": "https://stackoverflow.com/questions/39961768",
+        "title": "Mockito control output returned based off input"
+      },
+      {
+        "thread_id": "29980906",
+        "link": "https://stackoverflow.com/questions/29980906",
+        "title": "Mock a void method with a delay"
+      },
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      },
+      {
+        "thread_id": "56521214",
+        "link": "https://stackoverflow.com/questions/56521214",
+        "title": "Async AssertionError not failing the test Case"
+      }
+    ],
+    "org.mockito.invocation.InvocationOnMock.getMock": [
+      {
+        "thread_id": "29980906",
+        "link": "https://stackoverflow.com/questions/29980906",
+        "title": "Mock a void method with a delay"
+      },
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      }
+    ],
+    "com.google.common.collect.ImmutableMap.of": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      }
+    ],
+    "com.google.common.collect.Table.put": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      },
+      {
+        "thread_id": "35084333",
+        "link": "https://stackoverflow.com/questions/35084333",
+        "title": "How to store values in data structure(collections) where the values came by querying with clause GROUP BY two columns"
+      }
+    ],
+    "com.google.common.collect.Table.get": [
+      {
+        "thread_id": "35084333",
+        "link": "https://stackoverflow.com/questions/35084333",
+        "title": "How to store values in data structure(collections) where the values came by querying with clause GROUP BY two columns"
+      },
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      }
+    ],
+    "com.google.common.collect.HashBasedTable.create": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      }
+    ],
+    "com.google.common.collect.Table.row": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      }
+    ],
+    "com.google.common.collect.ImmutableMap.copyOf": [
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.cache.Cache.cleanUp": [
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      },
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.maximumSize": [
+      {
+        "thread_id": "15900557",
+        "link": "https://stackoverflow.com/questions/15900557",
+        "title": "How to Make guava cache value permanent"
+      },
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      },
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      }
+    ],
+    "org.mockito.Mockito.mock": [
+      {
+        "thread_id": "14440270",
+        "link": "https://stackoverflow.com/questions/14440270",
+        "title": "How does mockito when() invocation work?"
+      },
+      {
+        "thread_id": "30127057",
+        "link": "https://stackoverflow.com/questions/30127057",
+        "title": "How can I mock an instance of an enum class with PowerMock & Mockito?"
+      },
+      {
+        "thread_id": "37818904",
+        "link": "https://stackoverflow.com/questions/37818904",
+        "title": "Does one need to create an interface or implemented class to Mockito.mock()?"
+      },
+      {
+        "thread_id": "23273230",
+        "link": "https://stackoverflow.com/questions/23273230",
+        "title": "Misplaced argument matcher detected here. You cannot use argument matchers outside of verification or stubbing in Mockito"
+      },
+      {
+        "thread_id": "38273418",
+        "link": "https://stackoverflow.com/questions/38273418",
+        "title": "@RunWith(MockitoJUnitRunner.class) doesn't initialize mocks"
+      },
+      {
+        "thread_id": "42082918",
+        "link": "https://stackoverflow.com/questions/42082918",
+        "title": "Mockito & PowerMock - class size limitations"
+      },
+      {
+        "thread_id": "24618956",
+        "link": "https://stackoverflow.com/questions/24618956",
+        "title": "Is it possible to invoke mocked object's method?"
+      },
+      {
+        "thread_id": "60555861",
+        "link": "https://stackoverflow.com/questions/60555861",
+        "title": "Why is Mockito @Mock creating a non-mock instance?"
+      },
+      {
+        "thread_id": "8806027",
+        "link": "https://stackoverflow.com/questions/8806027",
+        "title": "ClassNotFound Error when using mockito to mock a class"
+      },
+      {
+        "thread_id": "19949762",
+        "link": "https://stackoverflow.com/questions/19949762",
+        "title": "Mockito: How to match any enum parameter"
+      },
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      },
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "32730381",
+        "link": "https://stackoverflow.com/questions/32730381",
+        "title": "java.lang.AbstractMethodError when spy the LinkedList in Android"
+      },
+      {
+        "thread_id": "27629351",
+        "link": "https://stackoverflow.com/questions/27629351",
+        "title": "Android Mockito - how to mock POJO class"
+      },
+      {
+        "thread_id": "8197921",
+        "link": "https://stackoverflow.com/questions/8197921",
+        "title": "Mocking Spring Bean"
+      },
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      },
+      {
+        "thread_id": "49783615",
+        "link": "https://stackoverflow.com/questions/49783615",
+        "title": "Mockito + PowerMock - mock Thread.currentThread().getStackTrace()"
+      },
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      },
+      {
+        "thread_id": "39276289",
+        "link": "https://stackoverflow.com/questions/39276289",
+        "title": "Is it not possible to set expectations on a lazy property?"
+      },
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      },
+      {
+        "thread_id": "17732461",
+        "link": "https://stackoverflow.com/questions/17732461",
+        "title": "How to stub all the method in the same mocked class"
+      },
+      {
+        "thread_id": "44173069",
+        "link": "https://stackoverflow.com/questions/44173069",
+        "title": "Error While running junit testcase in eclipse"
+      },
+      {
+        "thread_id": "56521214",
+        "link": "https://stackoverflow.com/questions/56521214",
+        "title": "Async AssertionError not failing the test Case"
+      }
+    ],
+    "org.mockito.AdditionalAnswers.returnsFirstArg": [
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      }
+    ],
+    "org.mockito.Matchers.any": [
+      {
+        "thread_id": "19949762",
+        "link": "https://stackoverflow.com/questions/19949762",
+        "title": "Mockito: How to match any enum parameter"
+      },
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      },
+      {
+        "thread_id": "19155369",
+        "link": "https://stackoverflow.com/questions/19155369",
+        "title": "set mock return value for any integer input parameter"
+      },
+      {
+        "thread_id": "55286432",
+        "link": "https://stackoverflow.com/questions/55286432",
+        "title": "Can I manipulate the order of mockito matchers?"
+      },
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      }
+    ],
+    "org.mockito.stubbing.OngoingStubbing.thenAnswer": [],
+    "org.mockito.AdditionalAnswers.returnsSecondArg": [
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      }
+    ],
+    "com.google.common.eventbus.SubscriberExceptionContext.getSubscriber": [
+      {
+        "thread_id": "29593297",
+        "link": "https://stackoverflow.com/questions/29593297",
+        "title": "Guava eventbus dispatching error"
+      }
+    ],
+    "com.google.common.eventbus.SubscriberExceptionContext.getEvent": [
+      {
+        "thread_id": "29593297",
+        "link": "https://stackoverflow.com/questions/29593297",
+        "title": "Guava eventbus dispatching error"
+      }
+    ],
+    "com.google.common.collect.Range.intersection": [
+      {
+        "thread_id": "43354567",
+        "link": "https://stackoverflow.com/questions/43354567",
+        "title": "java package com.google.common.collect.Range< LocalDate > intersection returns a wrong intersection"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.filteredOn": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.allMatch": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.allSatisfy": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.anySatisfy": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.are": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.AbstractIterableAssert.areAtLeast": [
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      }
+    ],
+    "org.assertj.core.api.Assertions.assertThat": [
+      {
+        "thread_id": "25850491",
+        "link": "https://stackoverflow.com/questions/25850491",
+        "title": "Ambiguous method call with Lambda in Java"
+      },
+      {
+        "thread_id": "46790838",
+        "link": "https://stackoverflow.com/questions/46790838",
+        "title": "Using AssertJ, how do I perform complex assertions on the contents of a list?"
+      },
+      {
+        "thread_id": "42518713",
+        "link": "https://stackoverflow.com/questions/42518713",
+        "title": "Multikey map with Long or AtomicLong value in Java"
+      },
+      {
+        "thread_id": "47691364",
+        "link": "https://stackoverflow.com/questions/47691364",
+        "title": "mockito.AdditionalAnswers.returnsFirstArg() for overloaded methods"
+      },
+      {
+        "thread_id": "43814894",
+        "link": "https://stackoverflow.com/questions/43814894",
+        "title": "Assertj extract and contains doesn't match"
+      },
+      {
+        "thread_id": "10080421",
+        "link": "https://stackoverflow.com/questions/10080421",
+        "title": "jUnit and Guava, comparing list equality after transform()"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "56521214",
+        "link": "https://stackoverflow.com/questions/56521214",
+        "title": "Async AssertionError not failing the test Case"
+      }
+    ],
+    "org.assertj.core.api.AbstractObjectAssert.extracting": [
+      {
+        "thread_id": "43814894",
+        "link": "https://stackoverflow.com/questions/43814894",
+        "title": "Assertj extract and contains doesn't match"
+      }
+    ],
+    "com.google.common.hash.Hashing.sha512": [
+      {
+        "thread_id": "16919751",
+        "link": "https://stackoverflow.com/questions/16919751",
+        "title": "Java weird compilation error with guava CharMatcher.matchesAnyOf"
+      }
+    ],
+    "org.mockito.ArgumentCaptor.forClass": [
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      }
+    ],
+    "org.mockito.ArgumentCaptor.capture": [
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "27303562",
+        "link": "https://stackoverflow.com/questions/27303562",
+        "title": "Why does upgrading Mockito from 1.9.5 to 1.10.8 break this Captor?"
+      },
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "17695056",
+        "link": "https://stackoverflow.com/questions/17695056",
+        "title": "Matching JdbcTemplate update method with Mockito"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      }
+    ],
+    "org.mockito.ArgumentCaptor.getValue": [
+      {
+        "thread_id": "27303562",
+        "link": "https://stackoverflow.com/questions/27303562",
+        "title": "Why does upgrading Mockito from 1.9.5 to 1.10.8 break this Captor?"
+      },
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "51720864",
+        "link": "https://stackoverflow.com/questions/51720864",
+        "title": "How to inject HttpServletRequest into ContainerRequestFilter with Mockito @InjectMocks"
+      },
+      {
+        "thread_id": "55034575",
+        "link": "https://stackoverflow.com/questions/55034575",
+        "title": "How to mock list method using Mockito"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      }
+    ],
+    "com.google.common.collect.ImmutableList.of": [
+      {
+        "thread_id": "8354200",
+        "link": "https://stackoverflow.com/questions/8354200",
+        "title": "Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating"
+      },
+      {
+        "thread_id": "16213103",
+        "link": "https://stackoverflow.com/questions/16213103",
+        "title": "Java comparator by using priority for classes that extend a common parent class"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.Multimaps.index": [
+      {
+        "thread_id": "8354200",
+        "link": "https://stackoverflow.com/questions/8354200",
+        "title": "Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating"
+      }
+    ],
+    "com.google.common.collect.Multimaps.transformValues": [
+      {
+        "thread_id": "8354200",
+        "link": "https://stackoverflow.com/questions/8354200",
+        "title": "Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating"
+      }
+    ],
+    "com.google.common.collect.ImmutableListMultimap.copyOf": [
+      {
+        "thread_id": "8354200",
+        "link": "https://stackoverflow.com/questions/8354200",
+        "title": "Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating"
+      }
+    ],
+    "com.google.common.base.Objects.equal": [
+      {
+        "thread_id": "16047547",
+        "link": "https://stackoverflow.com/questions/16047547",
+        "title": "Why isn't there guava Objects.equal(Object, Object) to primitive types?"
+      },
+      {
+        "thread_id": "10201083",
+        "link": "https://stackoverflow.com/questions/10201083",
+        "title": "Java: Only check hashCode in equals() of immutable object"
+      },
+      {
+        "thread_id": "6942096",
+        "link": "https://stackoverflow.com/questions/6942096",
+        "title": "What is the benefit of using ComparisonChain over Objects.equal() && Objects.equal() ... with Guava"
+      },
+      {
+        "thread_id": "6158601",
+        "link": "https://stackoverflow.com/questions/6158601",
+        "title": "guava-libraries: Is Objects.hashCode(Object[]) collision safe?"
+      }
+    ],
+    "com.google.common.cache.Cache.stats": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheStats.loadSuccessCount": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheStats.totalLoadTime": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheStats.loadExceptionCount": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheStats.evictionCount": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.LoadingCache.get": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.Cache.get": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.LoadingCache.getAll": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.refreshAfterWrite": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.recordStats": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.cache.CacheStats.minus": [
+      {
+        "thread_id": "25442298",
+        "link": "https://stackoverflow.com/questions/25442298",
+        "title": "Guava Cache CacheStats all zero"
+      }
+    ],
+    "com.google.common.io.FileBackedOutputStream.asByteSource": [
+      {
+        "thread_id": "29970869",
+        "link": "https://stackoverflow.com/questions/29970869",
+        "title": "FileBackedOutputStream on Appengine"
+      }
+    ],
+    "com.google.common.collect.ComparisonChain.start": [
+      {
+        "thread_id": "6942096",
+        "link": "https://stackoverflow.com/questions/6942096",
+        "title": "What is the benefit of using ComparisonChain over Objects.equal() && Objects.equal() ... with Guava"
+      }
+    ],
+    "com.google.common.collect.ComparisonChain.result": [
+      {
+        "thread_id": "6942096",
+        "link": "https://stackoverflow.com/questions/6942096",
+        "title": "What is the benefit of using ComparisonChain over Objects.equal() && Objects.equal() ... with Guava"
+      }
+    ],
+    "com.google.common.collect.ComparisonChain.compare": [
+      {
+        "thread_id": "6942096",
+        "link": "https://stackoverflow.com/questions/6942096",
+        "title": "What is the benefit of using ComparisonChain over Objects.equal() && Objects.equal() ... with Guava"
+      }
+    ],
+    "org.mockito.InOrder.verify": [
+      {
+        "thread_id": "47087419",
+        "link": "https://stackoverflow.com/questions/47087419",
+        "title": "how to fetch response from requestContext.abortwith() method"
+      },
+      {
+        "thread_id": "19482372",
+        "link": "https://stackoverflow.com/questions/19482372",
+        "title": "How do I simplify mockito/hamcrest argument matchers in test method?"
+      }
+    ],
+    "org.mockito.Mockito.inOrder": [
+      {
+        "thread_id": "27303562",
+        "link": "https://stackoverflow.com/questions/27303562",
+        "title": "Why does upgrading Mockito from 1.9.5 to 1.10.8 break this Captor?"
+      }
+    ],
+    "org.mockito.Matchers.eq": [
+      {
+        "thread_id": "55286432",
+        "link": "https://stackoverflow.com/questions/55286432",
+        "title": "Can I manipulate the order of mockito matchers?"
+      },
+      {
+        "thread_id": "30668168",
+        "link": "https://stackoverflow.com/questions/30668168",
+        "title": "Mockito Verify on passed sub type only sees super type"
+      }
+    ],
+    "com.google.common.collect.Sets.filter": [
+      {
+        "thread_id": "16141618",
+        "link": "https://stackoverflow.com/questions/16141618",
+        "title": "guava contiguous range by a rule"
+      }
+    ],
+    "com.google.common.collect.DiscreteDomain.integers": [
+      {
+        "thread_id": "16141618",
+        "link": "https://stackoverflow.com/questions/16141618",
+        "title": "guava contiguous range by a rule"
+      }
+    ],
+    "com.google.common.collect.Range.closed": [
+      {
+        "thread_id": "16141618",
+        "link": "https://stackoverflow.com/questions/16141618",
+        "title": "guava contiguous range by a rule"
+      }
+    ],
+    "com.google.common.collect.MultimapBuilder.treeKeys": [
+      {
+        "thread_id": "52383915",
+        "link": "https://stackoverflow.com/questions/52383915",
+        "title": "Java Multimap of naturally ordered keys but collections sorted in the order the elements were added"
+      },
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.collect.MultimapBuilder.hashKeys": [
+      {
+        "thread_id": "52383915",
+        "link": "https://stackoverflow.com/questions/52383915",
+        "title": "Java Multimap of naturally ordered keys but collections sorted in the order the elements were added"
+      }
+    ],
+    "com.google.common.base.Joiner.on": [
+      {
+        "thread_id": "49459385",
+        "link": "https://stackoverflow.com/questions/49459385",
+        "title": "Error at com.google.common.base.Joiner.on()"
+      }
+    ],
+    "com.google.common.base.Joiner.skipNulls": [
+      {
+        "thread_id": "49459385",
+        "link": "https://stackoverflow.com/questions/49459385",
+        "title": "Error at com.google.common.base.Joiner.on()"
+      }
+    ],
+    "com.google.common.base.Joiner.useForNull": [
+      {
+        "thread_id": "49459385",
+        "link": "https://stackoverflow.com/questions/49459385",
+        "title": "Error at com.google.common.base.Joiner.on()"
+      }
+    ],
+    "com.google.common.base.Joiner.join": [
+      {
+        "thread_id": "49459385",
+        "link": "https://stackoverflow.com/questions/49459385",
+        "title": "Error at com.google.common.base.Joiner.on()"
+      }
+    ],
+    "com.google.common.collect.Sets.newConcurrentHashSet": [
+      {
+        "thread_id": "2055700",
+        "link": "https://stackoverflow.com/questions/2055700",
+        "title": "What is the replacement for Sets.newConcurrentHashSet()?"
+      }
+    ],
+    "com.google.common.collect.Multimaps.newMultimap": [
+      {
+        "thread_id": "2055700",
+        "link": "https://stackoverflow.com/questions/2055700",
+        "title": "What is the replacement for Sets.newConcurrentHashSet()?"
+      },
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.collect.Sets.newSetFromMap": [
+      {
+        "thread_id": "2055700",
+        "link": "https://stackoverflow.com/questions/2055700",
+        "title": "What is the replacement for Sets.newConcurrentHashSet()?"
+      }
+    ],
+    "org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks": [
+      {
+        "thread_id": "50424048",
+        "link": "https://stackoverflow.com/questions/50424048",
+        "title": "Mockito InjectMocks with new Initialized Class Variables"
+      }
+    ],
+    "com.google.common.collect.Maps.newHashMap": [
+      {
+        "thread_id": "7758283",
+        "link": "https://stackoverflow.com/questions/7758283",
+        "title": "Does guava have a method for turning an iterable into a map of unique types?"
+      },
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.eventbus.EventBus.register": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.eventbus.EventBus.post": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.FluentIterable.from": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.FluentIterable.limit": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.FluentIterable.filter": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "com.google.common.collect.Maps.filterValues": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      }
+    ],
+    "org.mockito.Mockito.doNothing": [
+      {
+        "thread_id": "30186817",
+        "link": "https://stackoverflow.com/questions/30186817",
+        "title": "NPE while testing"
+      },
+      {
+        "thread_id": "59535052",
+        "link": "https://stackoverflow.com/questions/59535052",
+        "title": "Mockito @Mock does not stub method using when()"
+      }
+    ],
+    "com.google.common.collect.Maps.difference": [
+      {
+        "thread_id": "60304853",
+        "link": "https://stackoverflow.com/questions/60304853",
+        "title": "Guava Maps.difference on Scala maps"
+      }
+    ],
+    "org.mockito.stubbing.VoidMethodStubbable.on": [],
+    "org.mockito.stubbing.VoidMethodStubbable.toAnswer": [],
+    "org.mockito.Matchers.anyVararg": [
+      {
+        "thread_id": "57142466",
+        "link": "https://stackoverflow.com/questions/57142466",
+        "title": "Java Mockito- how to mock uncertain number of parameter method"
+      },
+      {
+        "thread_id": "32139252",
+        "link": "https://stackoverflow.com/questions/32139252",
+        "title": "Mockito: how to stub void methods to run some code when called"
+      }
+    ],
+    "org.mockito.Matchers.anyInt": [
+      {
+        "thread_id": "19155369",
+        "link": "https://stackoverflow.com/questions/19155369",
+        "title": "set mock return value for any integer input parameter"
+      }
+    ],
+    "org.mockito.Matchers.anyLong": [
+      {
+        "thread_id": "19155369",
+        "link": "https://stackoverflow.com/questions/19155369",
+        "title": "set mock return value for any integer input parameter"
+      },
+      {
+        "thread_id": "19949762",
+        "link": "https://stackoverflow.com/questions/19949762",
+        "title": "Mockito: How to match any enum parameter"
+      }
+    ],
+    "com.google.common.base.Functions.forMap": [
+      {
+        "thread_id": "5719833",
+        "link": "https://stackoverflow.com/questions/5719833",
+        "title": "Get all Values from a Map for some Keys in Java/Guava?"
+      }
+    ],
+    "com.google.common.collect.Collections2.transform": [
+      {
+        "thread_id": "10080421",
+        "link": "https://stackoverflow.com/questions/10080421",
+        "title": "jUnit and Guava, comparing list equality after transform()"
+      },
+      {
+        "thread_id": "5719833",
+        "link": "https://stackoverflow.com/questions/5719833",
+        "title": "Get all Values from a Map for some Keys in Java/Guava?"
+      }
+    ],
+    "org.mockito.plugins.MockMaker.createMock": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      },
+      {
+        "thread_id": "60555861",
+        "link": "https://stackoverflow.com/questions/60555861",
+        "title": "Why is Mockito @Mock creating a non-mock instance?"
+      }
+    ],
+    "org.mockito.mock.MockCreationSettings.getInvocationListeners": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      }
+    ],
+    "org.mockito.listeners.MethodInvocationReport.getInvocation": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      }
+    ],
+    "org.mockito.listeners.MethodInvocationReport.getReturnedValue": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      }
+    ],
+    "org.mockito.plugins.MockMaker.getHandler": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      }
+    ],
+    "org.mockito.plugins.MockMaker.resetMock": [
+      {
+        "thread_id": "17389563",
+        "link": "https://stackoverflow.com/questions/17389563",
+        "title": "Is it possible to add an interceptor to all answers when using Mockito?"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.expireAfterWrite": [
+      {
+        "thread_id": "15900557",
+        "link": "https://stackoverflow.com/questions/15900557",
+        "title": "How to Make guava cache value permanent"
+      },
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      }
+    ],
+    "com.google.common.cache.CacheBuilder.concurrencyLevel": [
+      {
+        "thread_id": "41226532",
+        "link": "https://stackoverflow.com/questions/41226532",
+        "title": "Guava CacheBuilder evicts items ahead of schedule"
+      }
+    ],
+    "com.google.common.collect.Multimap.entries": [
+      {
+        "thread_id": "3949942",
+        "link": "https://stackoverflow.com/questions/3949942",
+        "title": "Priority Queue using MultiMap - Java"
+      }
+    ],
+    "com.google.common.io.Files.asCharSink": [
+      {
+        "thread_id": "26737853",
+        "link": "https://stackoverflow.com/questions/26737853",
+        "title": "java.lang.NoSuchMethodError: com.google.common.io.Files.asCharSink"
+      }
+    ],
+    "com.google.common.collect.ImmutableTable.builder": [
+      {
+        "thread_id": "35084333",
+        "link": "https://stackoverflow.com/questions/35084333",
+        "title": "How to store values in data structure(collections) where the values came by querying with clause GROUP BY two columns"
+      }
+    ],
+    "com.google.common.cache.Cache.size": [
+      {
+        "thread_id": "35250020",
+        "link": "https://stackoverflow.com/questions/35250020",
+        "title": "Guava Cache of maximum size 1"
+      },
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      }
+    ],
+    "com.google.common.collect.MapMaker.weakKeys": [
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      }
+    ],
+    "com.google.common.collect.MapMaker.weakValues": [
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      }
+    ],
+    "com.google.common.collect.MapMaker.makeMap": [
+      {
+        "thread_id": "17559629",
+        "link": "https://stackoverflow.com/questions/17559629",
+        "title": "Why does Guava's MapMaker report an incorrect size for my map when using weak keys?"
+      }
+    ],
+    "org.mockito.Mockito.spy": [
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      },
+      {
+        "thread_id": "29303731",
+        "link": "https://stackoverflow.com/questions/29303731",
+        "title": "NoClassDefFoundError when I create mock for method with parameters"
+      },
+      {
+        "thread_id": "32730381",
+        "link": "https://stackoverflow.com/questions/32730381",
+        "title": "java.lang.AbstractMethodError when spy the LinkedList in Android"
+      },
+      {
+        "thread_id": "37818904",
+        "link": "https://stackoverflow.com/questions/37818904",
+        "title": "Does one need to create an interface or implemented class to Mockito.mock()?"
+      },
+      {
+        "thread_id": "56135373",
+        "link": "https://stackoverflow.com/questions/56135373",
+        "title": "Optional cannot be returned by stream() in Mockito Test classes"
+      },
+      {
+        "thread_id": "61930868",
+        "link": "https://stackoverflow.com/questions/61930868",
+        "title": "Mockito org.mockito.exceptions.misusing.UnfinishedStubbingException: Unfinished stubbing detected"
+      }
+    ],
+    "org.assertj.core.internal.Objects.assertNotNull": [],
+    "org.mockito.BDDMockito.given": [
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      }
+    ],
+    "org.mockito.BDDMockito.willReturn": [
+      {
+        "thread_id": "13980281",
+        "link": "https://stackoverflow.com/questions/13980281",
+        "title": "Confused how to use Mockito for an android test"
+      }
+    ],
+    "com.google.common.hash.HashCode.fromInt": [
+      {
+        "thread_id": "23298164",
+        "link": "https://stackoverflow.com/questions/23298164",
+        "title": "HashingFunction compatible with Arrays.hashCode"
+      }
+    ],
+    "org.mockito.stubbing.Stubber.doNothing": [],
+    "com.google.common.collect.Ordering.arbitrary": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.collect.MultimapBuilder.build": [
+      {
+        "thread_id": "52383915",
+        "link": "https://stackoverflow.com/questions/52383915",
+        "title": "Java Multimap of naturally ordered keys but collections sorted in the order the elements were added"
+      },
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.collect.Maps.newTreeMap": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.collect.Lists.newLinkedList": [
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      }
+    ],
+    "com.google.common.base.Stopwatch.createUnstarted": [
+      {
+        "thread_id": "43678302",
+        "link": "https://stackoverflow.com/questions/43678302",
+        "title": "IntelliJ IDEA causes NoSuchMethodErrors in GRPC/Netty"
+      }
+    ],
+    "com.google.common.io.Files.toByteArray": [
+      {
+        "thread_id": "22868967",
+        "link": "https://stackoverflow.com/questions/22868967",
+        "title": "File upload using Guava and apache common?"
+      }
+    ],
+    "org.mockito.stubbing.OngoingStubbing.thenCallRealMethod": [
+      {
+        "thread_id": "24618956",
+        "link": "https://stackoverflow.com/questions/24618956",
+        "title": "Is it possible to invoke mocked object's method?"
+      }
+    ],
+    "com.google.common.collect.Ordering.compare": [
+      {
+        "thread_id": "16213103",
+        "link": "https://stackoverflow.com/questions/16213103",
+        "title": "Java comparator by using priority for classes that extend a common parent class"
+      },
+      {
+        "thread_id": "36260084",
+        "link": "https://stackoverflow.com/questions/36260084",
+        "title": "How to sort Guava's MultiMap only by keys?"
+      },
+      {
+        "thread_id": "8346036",
+        "link": "https://stackoverflow.com/questions/8346036",
+        "title": "Serializing Collator instance"
+      }
+    ],
+    "com.google.common.collect.Ordering.explicit": [
+      {
+        "thread_id": "16213103",
+        "link": "https://stackoverflow.com/questions/16213103",
+        "title": "Java comparator by using priority for classes that extend a common parent class"
+      }
+    ],
+    "com.google.common.collect.Ordering.sortedCopy": [
+      {
+        "thread_id": "16213103",
+        "link": "https://stackoverflow.com/questions/16213103",
+        "title": "Java comparator by using priority for classes that extend a common parent class"
+      }
+    ],
+    "org.mockito.stubbing.OngoingStubbing.then": [
+      {
+        "thread_id": "14440270",
+        "link": "https://stackoverflow.com/questions/14440270",
+        "title": "How does mockito when() invocation work?"
+      },
+      {
+        "thread_id": "56135373",
+        "link": "https://stackoverflow.com/questions/56135373",
+        "title": "Optional cannot be returned by stream() in Mockito Test classes"
+      }
+    ],
+    "org.mockito.AdditionalMatchers.and": [
+      {
+        "thread_id": "55286432",
+        "link": "https://stackoverflow.com/questions/55286432",
+        "title": "Can I manipulate the order of mockito matchers?"
+      }
+    ],
+    "com.google.common.util.concurrent.Futures.successfulAsList": [
+      {
+        "thread_id": "43330764",
+        "link": "https://stackoverflow.com/questions/43330764",
+        "title": "Replace Futures.successfulAsList with Java 8 CompletableFuture?"
+      }
+    ],
+    "com.google.common.util.concurrent.Futures.allAsList": [
+      {
+        "thread_id": "43330764",
+        "link": "https://stackoverflow.com/questions/43330764",
+        "title": "Replace Futures.successfulAsList with Java 8 CompletableFuture?"
+      }
+    ],
+    "org.mockito.AdditionalMatchers.aryEq": [],
+    "com.google.common.collect.SetMultimap.asMap": [
+      {
+        "thread_id": "5089573",
+        "link": "https://stackoverflow.com/questions/5089573",
+        "title": "How to iterate over the sets in a SetMultimap without a cast?"
+      }
+    ],
+    "com.google.common.collect.SetMultimap.get": [
+      {
+        "thread_id": "5089573",
+        "link": "https://stackoverflow.com/questions/5089573",
+        "title": "How to iterate over the sets in a SetMultimap without a cast?"
+      }
+    ],
+    "com.google.common.collect.Multimaps.newSetMultimap": [
+      {
+        "thread_id": "5089573",
+        "link": "https://stackoverflow.com/questions/5089573",
+        "title": "How to iterate over the sets in a SetMultimap without a cast?"
+      }
+    ],
+    "com.google.common.collect.Multimaps.newSortedSetMultimap": [
+      {
+        "thread_id": "5089573",
+        "link": "https://stackoverflow.com/questions/5089573",
+        "title": "How to iterate over the sets in a SetMultimap without a cast?"
+      }
+    ],
+    "com.google.common.collect.Queues.synchronizedQueue": [
+      {
+        "thread_id": "36266134",
+        "link": "https://stackoverflow.com/questions/36266134",
+        "title": "Google Guava synchronizedQueue initialization error in Scala"
+      }
+    ],
+    "com.google.common.collect.MinMaxPriorityQueue.create": [
+      {
+        "thread_id": "36266134",
+        "link": "https://stackoverflow.com/questions/36266134",
+        "title": "Google Guava synchronizedQueue initialization error in Scala"
+      }
+    ],
+    "com.google.common.collect.Iterables.transform": [
+      {
+        "thread_id": "31598925",
+        "link": "https://stackoverflow.com/questions/31598925",
+        "title": "Iterables.transform is not iterating through my List"
+      },
+      {
+        "thread_id": "2155788",
+        "link": "https://stackoverflow.com/questions/2155788",
+        "title": "Most of the Iterators and Iterables methods are LAZY! What does this mean"
+      }
+    ],
+    "com.google.common.collect.Lists.transform": [
+      {
+        "thread_id": "29277173",
+        "link": "https://stackoverflow.com/questions/29277173",
+        "title": "How to update bean while iterating"
+      }
+    ],
+    "com.google.common.base.Ascii.equalsIgnoreCase": []
+  }
