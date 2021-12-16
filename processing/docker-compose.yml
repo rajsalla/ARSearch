@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+    codebert:
+        container_name: facos
+        build: .
+        # runtime: nvidia
+        deploy:
+            resources:
+              reservations:
+                devices:
+                - driver: nvidia
+                  count: all
+                  capabilities: [gpu]
+        ports:
+            - "9292:9292"
+        volumes:
+            - ./:/app/facos
+        tty: true
+
+

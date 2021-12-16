@@ -5,6 +5,8 @@ services:
     container_name: elasticsearch
     volumes:
       - $PWD/../data/elastic:/usr/share/elasticsearch/data
+    environment:
+      - "xpack.security.enabled=false"
     ports:
       - 9200:9200
   search-engine-job:
@@ -13,6 +15,8 @@ services:
     container_name: web-search-engine
     volumes:
       - $PWD/resources:/resources/
+      - $PWD/../shared_data/:/shared_data/
+
     ports:
       - "5000:5000"
     restart: on-failure
@@ -24,6 +28,7 @@ services:
       - FLASK_APP=index.py
       - REDIS_HOST=redis
       - REDIS_PORT=6379
+
   search-engine-ui:
     image: "web-search-engine-ui"
     container_name: web-search-engine-ui
@@ -35,3 +40,23 @@ services:
       - HOST=web-search-engine
       - PORT=5000
       - FLASK_APP=index.py
+  facos:
+    container_name: facos
+    build: ../processing
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #       - driver: nvidia
+    #         count: all
+    #         capabilities: [gpu]
+    ports:
+      - "9292:9292"
+    volumes:
+      - $PWD/../processing/:/app/facos
+      - $PWD/resources:/resources/
+      - $PWD/../shared_data/:/shared_data/
+    environment:
+      - HOST=elasticsearch
+      - PORT=9200
+    tty: true

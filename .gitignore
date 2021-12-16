@@ -10,16 +10,19 @@ nohup.out
 !**/*.cpython-36.pycdocker
 
 **/mysql_volume/
+**/*.bin
 
 **/*.ipynb
 **/*.zip
 **/*.tar.*
 **/*.tar
 **/*.log
-
+**/*.ndjson
 
 logs/
 .notebooks/
 
 model/*.bin
 data/
+
+shared_data/
