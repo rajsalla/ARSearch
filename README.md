@@ -1,19 +1,26 @@
 # ARSearch: Searching for API Related Resources from Stack Overflow and GitHub
 
-This repo is being updated. The complete source code will be updated soon.
+
 ## Run the web server and UI
 ```
 cd web-search-engine
 docker compose up -d
 ```
 
-## Run facos
+## Run FACOS to predict Stack Overflow Resource for APIs
 ```
 docker exec -it facos bash
 cd facos/
 python process_with_facos.py
 ```
 
+## Import data to Elasticsearch
+```
+docker exec -it facos bash
+cd facos/scripts
+python index_so_content.py
+python index_thread_data.py
+```
 ## Export/ Import data from/to Elasticsearch
 
 ```
